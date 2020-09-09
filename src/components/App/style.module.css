@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: dodgerblue;
+}
+
+.card {
+  width: 100%;
+  min-width: 280px;
+  max-width: 400px;
+  border-radius: 16px !important;
+  overflow: hidden;
+}
